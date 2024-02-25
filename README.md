@@ -1,0 +1,2 @@
+# ghosty
+My OSS project
